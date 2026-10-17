@@ -1,0 +1,86 @@
+{
+ "cfb47579bc874e81d8c74e32287009b23064e414e768e2cbe2c2906841cfd2bd": {
+  "text": "Under the DPDP Act, 2023, failing to adhere to any term of an accepted voluntary undertaking is deemed a breach of the provisions of the Act, and the Board may proceed under section 33 [1]. Under section 33, if the Board determines after an inquiry that the breach is significant, it may impose the monetary penalty specified in the Schedule, taking into account factors such as the nature, gravity, and duration of the breach [1], [3]. \n\nHowever, the provided excerpts do not contain the Schedule, so the exact monetary amount of the penalty is missing.",
+  "seconds": 8.3634415000015,
+  "prompt_tokens": 613,
+  "output_tokens": 123
+ },
+ "696e8eb855991cf0fbf534399de6a2dca27732251b6f59ae1f10363fe77c052e": {
+  "text": "Based on excerpt [1], for a \"Breach of any term of voluntary undertaking accepted by the Board under section 32\", the penalty is \"[u]p to the extent applicable for the breach in respect of which the proceedings under section 28\" were instituted [1]. \n\n(Note: Excerpt [1] cuts off at the end of that phrase, so any further details on the penalty beyond section 28 proceedings are missing from the text [1].)",
+  "seconds": 4.068306428998767,
+  "prompt_tokens": 627,
+  "output_tokens": 98
+ },
+ "4b963e794cfed00c9eb49666a5f73603c4bab1b4c34eb7cc9d2cd817c98e37d8": {
+  "text": "The Chairperson receives a consolidated salary of rupees four lakh per month, without the facility of house and car [2].",
+  "seconds": 3.2964553870006057,
+  "prompt_tokens": 636,
+  "output_tokens": 23
+ },
+ "0f28f1c1c8feea0245895d8fcace171cae3f5f05eac013a4b539cb76d35e3ff6": {
+  "text": "Based on the provided excerpts, the Chairperson is entitled to receive a consolidated salary of rupees four lakh fifty thousand per month, without the facility of a house and car [2].",
+  "seconds": 2.5053331480012275,
+  "prompt_tokens": 633,
+  "output_tokens": 35
+ },
+ "e004b1fc75169a1ed5eaa5b6f57c2ff6419b33c0b131f5fb9e553ad93228373b": {
+  "text": "Based on the provided excerpts, there is no mention of whether Board Members are paid a sitting fee for attending meetings. The excerpts state that the salary, allowances, and other terms and conditions of service shall be such as may be prescribed or specified in the Fifth Schedule [2], [3], but they do not provide the specific details regarding sitting fees.",
+  "seconds": 8.275922556000296,
+  "prompt_tokens": 602,
+  "output_tokens": 70
+ },
+ "109f2253606a68f9046e024638d34aa21579e52690d6c3e7a0ad8edbe069fb00": {
+  "text": "No. According to the excerpts, the Chairperson and every other Member are not entitled to any sitting fee for attending meetings of the Board [1].",
+  "seconds": 8.190005682001356,
+  "prompt_tokens": 605,
+  "output_tokens": 29
+ },
+ "075d6c66c57ef19ccfb0b4fc4928c7ae92e34693c116e0e4bcb4cacd56f51b75": {
+  "text": "Based on the provided excerpts, there is no information mentioning whether a Consent Manager can read the personal data that passes through its platform. The excerpts only describe the Consent Manager's role in enabling individuals to give, manage, review, and withdraw consent, as well as its obligation to maintain records of consents, notices, and data sharing [1], [2].",
+  "seconds": 2.809467560000485,
+  "prompt_tokens": 611,
+  "output_tokens": 72
+ },
+ "f858db6a8b8419078d0e701118228464fd81cbc7d6c480ea8fd89a23b8643cd5": {
+  "text": "No. According to the DPDP Rules, 2025, the Consent Manager must ensure that the manner of making available or sharing the personal data is such that its contents are not readable by the Consent Manager [3].",
+  "seconds": 5.4721333689994935,
+  "prompt_tokens": 614,
+  "output_tokens": 46
+ },
+ "4a5c7e8fc93d0b6cd1e9f24f78aa525ddeec40a4cecb52829875f0879c4604de": {
+  "text": "Based on the provided excerpts, the Chairperson is appointed in connection with a \"Search-cum-Selection Committee\" [2]. However, the excerpts do not contain enough information to state fully who actually selects or appoints the Chairperson, as the text preceding \"Search-cum-Selection Committee, appoint the Chairperson...\" is cut off [2].",
+  "seconds": 6.28733638400081,
+  "prompt_tokens": 614,
+  "output_tokens": 67
+ },
+ "ed28dae9be09c6fb3e58f5efe8ddcbd917f10ff9c8c65002beac562a180fe39c": {
+  "text": "The Central Government appoints the Chairperson after considering the suitability of individuals recommended by a Search-cum-Selection Committee [1], [3]. \n\nThis Search-cum-Selection Committee recommends individuals for the appointment and consists of:\n- The Cabinet Secretary as chairperson [3];\n- The Secretaries to the Government of India in charge of the Department of Legal Affairs and the Ministry of Electronics and Information Technology as members [3]; and\n- Two experts of repute with special knowledge or practical experience in a field deemed useful to the Board by the Central Government as members [3].",
+  "seconds": 1.8823134339982062,
+  "prompt_tokens": 601,
+  "output_tokens": 116
+ },
+ "45d4e92dd05760e4d908e7d70e7d6b3cbb662ca471c1f580a42fe30708d3261e": {
+  "text": "Based on the provided excerpts, there is no mention of courts, tribunals, or whether they can process personal data without following the Act's duties. Therefore, the excerpts do not contain enough information to answer the question.",
+  "seconds": 122.58280876200297,
+  "prompt_tokens": 621,
+  "output_tokens": 44
+ },
+ "8b106dc04b3fa5c0f4b487b86a545b08f5a424b7ea691cdb9fabfecb743cce88": {
+  "text": "Yes, to a significant extent. Under Section 17(1)(b) of the Act, when personal data is processed by any court or tribunal in India and such processing is necessary for the performance of any judicial or quasi-judicial function, the provisions of Chapter II (Obligations of Data Fiduciary), Chapter III, and Section 16 do not apply [2]. \n\nHowever, they are not completely exempt from all duties: sub-sections (1) and (5) of section 8 under Chapter II still apply [2]. (Note: The provided excerpts do not specify the exact text of Section 8(1) and (5) [2]).",
+  "seconds": 86.33367442400049,
+  "prompt_tokens": 624,
+  "output_tokens": 138
+ },
+ "6fc8e983ed7bef46905edfba94c66e2297dbd0e4df5757adde56f6cdf7d6e8d9": {
+  "text": "Under Section 17(1)(d), where personal data of Data Principals not within the territory of India is processed by a person based in India pursuant to a contract entered into with a person outside India, certain provisions\u2014specifically Chapter II (except subsections (1) and (5) of section 8), Chapter III, and section 16\u2014do not apply [1], [3]. \n\nWhile Section 3 generally applies the Act to the processing of digital personal data within India [2], the excerpts do not provide the full text of the Act to specify every remaining obligation that applies to such an outsourcing firm.",
+  "seconds": 125.33074227999896,
+  "prompt_tokens": 611,
+  "output_tokens": 128
+ },
+ "d98b8fb3b68782fbad0fe39a9f3ee29adaccc9e6f3b8d17c958dc9f70bf9c910": {
+  "text": "Based on the provided excerpts, there is not enough information to fully answer whether the Act applies to an Indian outsourcing firm processing foreign customers' data. \n\nExcerpt [1] states that the Act applies to \"the processing of digital personal data within the territory of India where the personal data is collected\" in digital form or subsequently digitized, and excerpt [3] mentions exemptions regarding the processing of personal data outside India [1, 3]. However, the excerpts do not contain specific provisions or exceptions addressing Indian outsourcing companies or the processing of foreign individuals' personal data under contract.",
+  "seconds": 28.68088255800103,
+  "prompt_tokens": 610,
+  "output_tokens": 115
+ }
+}

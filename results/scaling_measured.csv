@@ -1,0 +1,6 @@
+measurement,value
+"cross-encoder, all 230 chunks (s)",9.75
+"cross-encoder, per (query, chunk) pair (ms)",42.4
+"cross-encoder, the 10 re-ranked candidates, median (ms)",361.5
+"FAISS flat search over 10,000 vectors (ms)",1.78
+"FAISS flat search over 100,000 vectors (ms)",17.57

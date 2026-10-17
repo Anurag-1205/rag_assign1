@@ -1,0 +1,6 @@
+,mean_ms,median_ms,p95_ms
+query embedding (bi-encoder),12.61,12.5,14.26
+FAISS search (top 10),0.08,0.07,0.12
+PIPELINE 1 retrieval total,12.69,12.58,14.4
+"cross-encoder, 10 pairs",362.71,361.46,384.0
+PIPELINE 2 retrieval total,375.41,374.4,395.89

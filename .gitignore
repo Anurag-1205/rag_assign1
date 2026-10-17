@@ -11,3 +11,6 @@ __pycache__/
 # model caches and scratch
 .cache/
 .DS_Store
+
+# local report workspace
+report_workspace/

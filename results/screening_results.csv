@@ -1,0 +1,113 @@
+id,category,query,gold_chunks,rank_among_all_chunks,baseline_rank,reranked_rank,outcome
+NEG-01,NEGATION,Can a Consent Manager outsource its work to another company?,[183],5,5.0,5.0,STILL OUTSIDE TOP-3
+NEG-02,NEGATION,Can the Board take a company's equipment into custody during an inquiry?,[83],3,3.0,2.0,ALREADY TOP-3
+NEG-03,NEGATION,Do Members of the Data Protection Board receive a pension?,[209],34,,,GOLD NOT IN TOP-10
+NEG-04,NEGATION,Can the Chairperson of the Board be removed without being heard?,"[69, 70]",1,1.0,1.0,ALREADY TOP-3
+NEG-05,NEGATION,Can a former Board Member immediately take a job with a company that she investigated?,[71],3,3.0,4.0,WORSE
+NEG-06,NEGATION,Can a Consent Manager read the personal data that passes through its platform?,[181],5,5.0,3.0,FIXED
+NEG-07,NEGATION,Is a company allowed to show targeted advertising to children?,[43],3,3.0,1.0,ALREADY TOP-3
+NEG-08,NEGATION,Can a civil court hear a dispute that the Board is empowered to decide?,[100],17,,,GOLD NOT IN TOP-10
+NEG-09,NEGATION,Is the Appellate Tribunal bound to follow the Code of Civil Procedure?,[173],1,1.0,1.0,ALREADY TOP-3
+NEG-10,NEGATION,Are Board Members paid a sitting fee for attending meetings?,[219],5,5.0,1.0,FIXED
+NEG-11,NEGATION,Can a Board Member vote on a matter in which she has a personal interest?,"[167, 168]",1,1.0,1.0,ALREADY TOP-3
+EXC-01,EXCEPTION,Can an email service create an account for a child without parental consent?,[204],1,1.0,1.0,ALREADY TOP-3
+EXC-02,EXCEPTION,Is a school transport operator allowed to track the location of the children it carries?,[202],1,1.0,1.0,ALREADY TOP-3
+EXC-03,EXCEPTION,Can a Significant Data Fiduciary send personal data abroad?,[157],47,,,GOLD NOT IN TOP-10
+EXC-04,EXCEPTION,"If personal data is processed to enforce a legal claim, which duties of the Data Fiduciary still apply?",[57],20,,,GOLD NOT IN TOP-10
+EXC-05,EXCEPTION,Does the Act apply to personal data that someone posts publicly on social media?,"[11, 12]",1,1.0,1.0,ALREADY TOP-3
+EXC-06,EXCEPTION,Does the Act apply to data processed for research?,"[62, 162]",23,,,GOLD NOT IN TOP-10
+EXC-07,EXCEPTION,Can personal data be processed without consent during a disaster?,"[33, 34]",7,7.0,9.0,STILL OUTSIDE TOP-3
+EXC-08,EXCEPTION,Can an employer use an employee's personal data without asking for consent?,[34],135,,,GOLD NOT IN TOP-10
+EXC-09,EXCEPTION,Can a hospital process a child's data without a parent's consent?,[200],5,5.0,7.0,STILL OUTSIDE TOP-3
+EXC-10,EXCEPTION,Must a bank delete a customer's data when the account is closed?,[39],3,3.0,1.0,ALREADY TOP-3
+EXC-11,EXCEPTION,Which obligations can the government waive for startups?,"[62, 63]",1,1.0,2.0,ALREADY TOP-3
+EXC-12,EXCEPTION,Does a company have to keep a user's data only until the purpose is served even if the government is the one processing it?,[64],12,,,GOLD NOT IN TOP-10
+EXC-13,EXCEPTION,Are there countries to which personal data cannot be sent?,[56],2,2.0,2.0,ALREADY TOP-3
+EXC-14,EXCEPTION,"If a user withdraws consent, can the company still process data for goods she already paid for?",[23],1,1.0,1.0,ALREADY TOP-3
+EXC-15,EXCEPTION,Does an e-commerce platform have to keep order data even if the user deletes her account?,"[139, 140]",1,1.0,1.0,ALREADY TOP-3
+EXC-16,EXCEPTION,Can the Board extend the time limit for completing an inquiry?,[170],1,1.0,1.0,ALREADY TOP-3
+EXC-17,EXCEPTION,Will the Appellate Tribunal accept an appeal filed after the deadline?,"[86, 87]",1,1.0,1.0,ALREADY TOP-3
+EXC-18,EXCEPTION,Must a company tell a user which other companies received her data if the sharing was for crime investigation?,"[49, 50]",1,1.0,1.0,ALREADY TOP-3
+EXC-19,EXCEPTION,Does the Act cover a company located outside India?,[11],3,3.0,1.0,ALREADY TOP-3
+EXC-20,EXCEPTION,Does the Act apply to an Indian outsourcing firm processing the data of foreign customers?,[58],1,1.0,7.0,WORSE
+EXC-21,EXCEPTION,Can a lender use a defaulter's personal data without consent?,[59],62,,,GOLD NOT IN TOP-10
+EXC-22,EXCEPTION,Is a seller on an online marketplace treated as an e-commerce entity for data erasure timelines?,[198],3,3.0,1.0,ALREADY TOP-3
+EXC-23,EXCEPTION,Is personal data used for private household purposes covered by the Act?,"[11, 12]",1,1.0,1.0,ALREADY TOP-3
+EXC-24,EXCEPTION,Can a company get more time than 72 hours to give the Board details of a breach?,[135],1,1.0,1.0,ALREADY TOP-3
+EXC-25,EXCEPTION,Can the Government stop a company from telling a user that her data was requested?,[175],73,,,GOLD NOT IN TOP-10
+EXC-26,EXCEPTION,Which kinds of Data Fiduciaries are exempt from the ban on tracking children?,[200],8,8.0,5.0,STILL OUTSIDE TOP-3
+EXC-27,EXCEPTION,For what purposes can a child's data be processed without verifiable parental consent?,"[202, 203]",79,,,GOLD NOT IN TOP-10
+EXC-28,EXCEPTION,Can a school monitor the behaviour of its students?,"[201, 202]",1,1.0,2.0,ALREADY TOP-3
+EXC-29,EXCEPTION,Does the ban on tracking children apply to a crèche?,[201],2,2.0,2.0,ALREADY TOP-3
+EXC-30,EXCEPTION,Which State bodies are completely exempt from the Act?,[61],77,,,GOLD NOT IN TOP-10
+EXC-31,EXCEPTION,For how long can the Government exempt a company from the Act?,[64],1,1.0,3.0,ALREADY TOP-3
+EXC-32,EXCEPTION,Are there any purposes for which the three-year erasure period does not apply?,"[194, 195, 196, 197]",22,,,GOLD NOT IN TOP-10
+EXC-33,EXCEPTION,Can the Government be sued for something it did in good faith under the Act?,[96],1,1.0,1.0,ALREADY TOP-3
+EXC-34,EXCEPTION,Can personal data be used without consent in a medical emergency?,[33],129,,,GOLD NOT IN TOP-10
+EXC-35,EXCEPTION,Can data be processed without consent during an epidemic?,[33],132,,,GOLD NOT IN TOP-10
+EXC-36,EXCEPTION,Can a company use personal data to comply with a court order from another country?,"[32, 33]",126,,,GOLD NOT IN TOP-10
+EXC-37,EXCEPTION,Can a person be forced to share personal data held by a bank with the government?,[32],143,,,GOLD NOT IN TOP-10
+EXC-38,EXCEPTION,Are research bodies free from the Act's rules?,"[127, 162]",23,,,GOLD NOT IN TOP-10
+EXC-39,EXCEPTION,Does the right to correct data apply to data the State processes for a decision-free purpose?,[64],70,,,GOLD NOT IN TOP-10
+EXC-40,EXCEPTION,Does the ban on tracking children have any exceptions?,[154],8,8.0,5.0,STILL OUTSIDE TOP-3
+EXC-41,EXCEPTION,Are some companies allowed to process children's data without getting parental consent?,[154],7,7.0,4.0,STILL OUTSIDE TOP-3
+EXC-42,EXCEPTION,Does a doctor need a parent's consent before processing a child's health data?,"[200, 201]",3,3.0,4.0,WORSE
+EXC-43,EXCEPTION,Is a healthcare provider exempt from parental consent for children's data?,"[200, 201]",8,8.0,5.0,STILL OUTSIDE TOP-3
+EXC-44,EXCEPTION,Can a company keep personal data after the user withdraws consent?,[37],8,8.0,5.0,STILL OUTSIDE TOP-3
+EXC-45,EXCEPTION,Can a company refuse a user's request to erase her data?,[51],26,,,GOLD NOT IN TOP-10
+EXC-46,EXCEPTION,Does the government have to delete personal data once its purpose is over?,[64],52,,,GOLD NOT IN TOP-10
+EXC-47,EXCEPTION,Are national security agencies covered by the Act?,[61],62,,,GOLD NOT IN TOP-10
+EXC-48,EXCEPTION,Can a person go straight to the Board without first complaining to the company?,[53],50,,,GOLD NOT IN TOP-10
+EXC-49,EXCEPTION,Can the government raise the penalty amounts in the Schedule?,[110],1,1.0,1.0,ALREADY TOP-3
+EXC-50,EXCEPTION,When can the government order a company's services to be blocked?,[97],7,7.0,3.0,FIXED
+EXC-51,EXCEPTION,When may a company send personal data abroad?,[161],10,10.0,2.0,FIXED
+EXC-52,EXCEPTION,Can another law restrict sending personal data abroad even if the government has not?,"[56, 57]",1,1.0,1.0,ALREADY TOP-3
+EXC-53,EXCEPTION,What happens if this Act conflicts with another law?,[100],12,,,GOLD NOT IN TOP-10
+EXC-54,EXCEPTION,Can a company track a child's real-time location?,[204],1,1.0,1.0,ALREADY TOP-3
+EXC-55,EXCEPTION,Can a company process personal data to check that a user is not a child?,[205],21,,,GOLD NOT IN TOP-10
+EXC-56,EXCEPTION,Does old consent given before the law took effect remain valid?,[15],92,,,GOLD NOT IN TOP-10
+EXC-57,EXCEPTION,Is a user's data erased even if she regularly logs into her account?,[137],1,1.0,1.0,ALREADY TOP-3
+EXC-58,EXCEPTION,Which online gaming companies must erase inactive users' data?,[195],6,6.0,1.0,FIXED
+EXC-59,EXCEPTION,Can an employer process employee data to protect trade secrets without consent?,[34],123,,,GOLD NOT IN TOP-10
+EXC-60,EXCEPTION,Can personal data be processed without consent to obey a court order?,[32],139,,,GOLD NOT IN TOP-10
+EXC-61,EXCEPTION,Can data be processed without consent to help people during a disaster?,"[33, 34]",1,1.0,1.0,ALREADY TOP-3
+EXC-62,EXCEPTION,Can a bank keep a customer's records for ten years after closing the account?,[39],1,1.0,1.0,ALREADY TOP-3
+EXC-63,EXCEPTION,Can a court or tribunal process personal data without following the Act's duties?,[57],4,4.0,2.0,FIXED
+EXC-64,EXCEPTION,Does the Act apply to data processed to detect or investigate a crime?,[58],32,,,GOLD NOT IN TOP-10
+EXC-65,EXCEPTION,Can a company merge with another and share personal data without consent?,"[58, 59]",52,,,GOLD NOT IN TOP-10
+EXC-66,EXCEPTION,Can a person nominate someone to exercise her rights if she dies?,[53],20,,,GOLD NOT IN TOP-10
+EXC-67,EXCEPTION,Must the Consent Manager be controlled by the same people forever?,[187],18,,,GOLD NOT IN TOP-10
+EXC-68,EXCEPTION,Can the Board use equipment seized from a company?,"[83, 84]",1,1.0,1.0,ALREADY TOP-3
+EXC-69,EXCEPTION,Can the Board act against a person who gave a voluntary undertaking?,[92],1,1.0,2.0,ALREADY TOP-3
+EXC-70,EXCEPTION,Can the Board punish someone who files a false complaint?,[85],1,1.0,1.0,ALREADY TOP-3
+EXC-71,EXCEPTION,Is the Appellate Tribunal's order executable like a court decree?,[90],1,1.0,1.0,ALREADY TOP-3
+EXC-72,EXCEPTION,Can the Government ask for information from a company without the company telling the user?,[175],3,3.0,1.0,ALREADY TOP-3
+EXC-73,EXCEPTION,May a Data Principal be a minor whose parent acts for her?,[5],11,,,GOLD NOT IN TOP-10
+DIS-01,DISTRACTOR,How quickly must a company report a data breach to the Board?,[135],1,1.0,1.0,ALREADY TOP-3
+DIS-02,DISTRACTOR,How many days does a company have to respond to a grievance from a user?,[159],13,,,GOLD NOT IN TOP-10
+DIS-03,DISTRACTOR,How much net worth does a Consent Manager need to register?,[176],1,1.0,1.0,ALREADY TOP-3
+DIS-04,DISTRACTOR,How long must a Consent Manager keep its records of consents?,"[182, 183]",1,1.0,1.0,ALREADY TOP-3
+DIS-05,DISTRACTOR,What is the monthly salary of the Chairperson of the Board?,[208],6,6.0,2.0,FIXED
+DIS-06,DISTRACTOR,How long does the Board have to finish an inquiry?,"[169, 170]",1,1.0,1.0,ALREADY TOP-3
+DIS-07,DISTRACTOR,What is the quorum for a meeting of the Board?,"[166, 167]",1,1.0,1.0,ALREADY TOP-3
+DIS-08,DISTRACTOR,How many days does a person have to appeal against an order of the Board?,[86],1,1.0,1.0,ALREADY TOP-3
+DIS-09,DISTRACTOR,How much notice must a company give before erasing an inactive user's data?,[137],1,1.0,1.0,ALREADY TOP-3
+DIS-10,DISTRACTOR,At what age does a person stop being a child under the Act?,"[3, 4]",30,,,GOLD NOT IN TOP-10
+DIS-11,DISTRACTOR,For how long must logs be kept to detect unauthorised access?,[132],2,2.0,1.0,ALREADY TOP-3
+DIS-12,DISTRACTOR,How long is the term of office of the Chairperson of the Board?,[68],2,2.0,1.0,ALREADY TOP-3
+DIS-13,DISTRACTOR,Where must the Data Protection Officer of a Significant Data Fiduciary be located?,"[45, 46]",4,4.0,2.0,FIXED
+DIS-14,DISTRACTOR,How often must a Significant Data Fiduciary carry out an impact assessment?,[155],1,1.0,1.0,ALREADY TOP-3
+DIS-15,DISTRACTOR,How much is the penalty for breaking a voluntary undertaking given to the Board?,[115],7,7.0,1.0,FIXED
+DIS-16,DISTRACTOR,Where does the money collected from penalties go?,[96],1,1.0,1.0,ALREADY TOP-3
+DIS-17,DISTRACTOR,How is the fee for an appeal to the Appellate Tribunal paid?,"[172, 173]",1,1.0,1.0,ALREADY TOP-3
+DIS-18,DISTRACTOR,Who selects the Chairperson of the Board?,"[162, 163]",9,9.0,3.0,FIXED
+DIS-19,DISTRACTOR,Who is the Data Protection Officer of a Significant Data Fiduciary answerable to?,"[45, 46]",4,4.0,2.0,FIXED
+DIS-20,DISTRACTOR,Can a company escape responsibility by blaming its Data Processor?,"[34, 35]",2,2.0,2.0,ALREADY TOP-3
+DIS-21,DISTRACTOR,Is a written contract needed to hire a Data Processor?,"[35, 36]",1,1.0,1.0,ALREADY TOP-3
+DIS-22,DISTRACTOR,What happens if Board Members' votes are tied?,[167],1,1.0,1.0,ALREADY TOP-3
+DIS-23,DISTRACTOR,Can the Chairperson act alone in an emergency?,[168],10,10.0,6.0,STILL OUTSIDE TOP-3
+DIS-24,DISTRACTOR,In which languages must a notice be available to the user?,"[17, 18, 21]",2,2.0,1.0,ALREADY TOP-3
+DIS-25,DISTRACTOR,How many years can a Board officer be on deputation?,"[221, 222]",1,1.0,1.0,ALREADY TOP-3
+DIS-26,DISTRACTOR,What is the minimum shareholding that a Consent Manager must disclose?,"[185, 186]",1,1.0,1.0,ALREADY TOP-3
+DIS-27,DISTRACTOR,Who can be disqualified from being a Board Member?,"[68, 69]",1,1.0,1.0,ALREADY TOP-3
+DIS-28,DISTRACTOR,What identity details can prove a parent is an adult?,[142],1,1.0,1.0,ALREADY TOP-3

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "DIS-15",
+    "category": "DISTRACTOR",
+    "query": "How much is the penalty for breaking a voluntary undertaking given to the Board?",
+    "gold_chunks": [
+      115
+    ],
+    "baseline_rank": 7,
+    "reranked_rank": 1,
+    "context_answer_1": [
+      93,
+      92,
+      94
+    ],
+    "context_answer_2": [
+      115,
+      93,
+      94
+    ],
+    "reference_answer": "Schedule item 6: up to the extent applicable for the breach for which the section 28 proceedings were instituted (a breach of an accepted voluntary undertaking is deemed a breach of the Act: s.32(5), s.33).",
+    "answer_1": "Under the DPDP Act, 2023, failing to adhere to any term of an accepted voluntary undertaking is deemed a breach of the provisions of the Act, and the Board may proceed under section 33 [1]. Under section 33, if the Board determines after an inquiry that the breach is significant, it may impose the monetary penalty specified in the Schedule, taking into account factors such as the nature, gravity, and duration of the breach [1], [3]. \n\nHowever, the provided excerpts do not contain the Schedule, so the exact monetary amount of the penalty is missing.",
+    "answer_2": "Based on excerpt [1], for a \"Breach of any term of voluntary undertaking accepted by the Board under section 32\", the penalty is \"[u]p to the extent applicable for the breach in respect of which the proceedings under section 28\" were instituted [1]. \n\n(Note: Excerpt [1] cuts off at the end of that phrase, so any further details on the penalty beyond section 28 proceedings are missing from the text [1].)",
+    "answer_1_check": "omits the key fact",
+    "answer_2_check": "contains the key fact"
+  },
+  {
+    "id": "DIS-05",
+    "category": "DISTRACTOR",
+    "query": "What is the monthly salary of the Chairperson of the Board?",
+    "gold_chunks": [
+      208
+    ],
+    "baseline_rank": 6,
+    "reranked_rank": 2,
+    "context_answer_1": [
+      68,
+      209,
+      220
+    ],
+    "context_answer_2": [
+      209,
+      208,
+      68
+    ],
+    "reference_answer": "Rs 4,50,000 per month, consolidated, without house and car (Rules, Fifth Schedule 1(1)). Other Members get Rs 4,00,000.",
+    "answer_1": "The Chairperson receives a consolidated salary of rupees four lakh per month, without the facility of house and car [2].",
+    "answer_2": "Based on the provided excerpts, the Chairperson is entitled to receive a consolidated salary of rupees four lakh fifty thousand per month, without the facility of a house and car [2].",
+    "answer_1_check": "states a wrong fact",
+    "answer_2_check": "contains the key fact"
+  },
+  {
+    "id": "NEG-10",
+    "category": "NEGATION",
+    "query": "Are Board Members paid a sitting fee for attending meetings?",
+    "gold_chunks": [
+      219
+    ],
+    "baseline_rank": 5,
+    "reranked_rank": 1,
+    "context_answer_1": [
+      167,
+      68,
+      166
+    ],
+    "context_answer_2": [
+      219,
+      167,
+      166
+    ],
+    "reference_answer": "No. Rules, Fifth Schedule 8(3): the Chairperson and every other Member are not entitled to any sitting fee.",
+    "answer_1": "Based on the provided excerpts, there is no mention of whether Board Members are paid a sitting fee for attending meetings. The excerpts state that the salary, allowances, and other terms and conditions of service shall be such as may be prescribed or specified in the Fifth Schedule [2], [3], but they do not provide the specific details regarding sitting fees.",
+    "answer_2": "No. According to the excerpts, the Chairperson and every other Member are not entitled to any sitting fee for attending meetings of the Board [1].",
+    "answer_1_check": "omits the key fact",
+    "answer_2_check": "contains the key fact"
+  },
+  {
+    "id": "NEG-06",
+    "category": "NEGATION",
+    "query": "Can a Consent Manager read the personal data that passes through its platform?",
+    "gold_chunks": [
+      181
+    ],
+    "baseline_rank": 5,
+    "reranked_rank": 3,
+    "context_answer_1": [
+      182,
+      179,
+      123
+    ],
+    "context_answer_2": [
+      182,
+      179,
+      181
+    ],
+    "reference_answer": "No. Rules, First Schedule Part B item 2: the Consent Manager must ensure the data is shared in a way that its contents are not readable by it.",
+    "answer_1": "Based on the provided excerpts, there is no information mentioning whether a Consent Manager can read the personal data that passes through its platform. The excerpts only describe the Consent Manager's role in enabling individuals to give, manage, review, and withdraw consent, as well as its obligation to maintain records of consents, notices, and data sharing [1], [2].",
+    "answer_2": "No. According to the DPDP Rules, 2025, the Consent Manager must ensure that the manner of making available or sharing the personal data is such that its contents are not readable by the Consent Manager [3].",
+    "answer_1_check": "omits the key fact",
+    "answer_2_check": "contains the key fact"
+  },
+  {
+    "id": "DIS-18",
+    "category": "DISTRACTOR",
+    "query": "Who selects the Chairperson of the Board?",
+    "gold_chunks": [
+      162,
+      163
+    ],
+    "baseline_rank": 9,
+    "reranked_rank": 3,
+    "context_answer_1": [
+      75,
+      165,
+      168
+    ],
+    "context_answer_2": [
+      164,
+      165,
+      163
+    ],
+    "reference_answer": "The Central Government appoints the Chairperson after considering the recommendation of a Search-cum-Selection Committee chaired by the Cabinet Secretary (Rules, rule 17(1) and (3)).",
+    "answer_1": "Based on the provided excerpts, the Chairperson is appointed in connection with a \"Search-cum-Selection Committee\" [2]. However, the excerpts do not contain enough information to state fully who actually selects or appoints the Chairperson, as the text preceding \"Search-cum-Selection Committee, appoint the Chairperson...\" is cut off [2].",
+    "answer_2": "The Central Government appoints the Chairperson after considering the suitability of individuals recommended by a Search-cum-Selection Committee [1], [3]. \n\nThis Search-cum-Selection Committee recommends individuals for the appointment and consists of:\n- The Cabinet Secretary as chairperson [3];\n- The Secretaries to the Government of India in charge of the Department of Legal Affairs and the Ministry of Electronics and Information Technology as members [3]; and\n- Two experts of repute with special knowledge or practical experience in a field deemed useful to the Board by the Central Government as members [3].",
+    "answer_1_check": "omits the key fact",
+    "answer_2_check": "contains the key fact"
+  },
+  {
+    "id": "EXC-63",
+    "category": "EXCEPTION",
+    "query": "Can a court or tribunal process personal data without following the Act's duties?",
+    "gold_chunks": [
+      57
+    ],
+    "baseline_rank": 4,
+    "reranked_rank": 2,
+    "context_answer_1": [
+      190,
+      12,
+      16
+    ],
+    "context_answer_2": [
+      13,
+      57,
+      190
+    ],
+    "reference_answer": "Largely yes: s.17(1)(b) exempts processing by a court, tribunal or other body entrusted with a judicial, quasi-judicial, regulatory or supervisory function (where necessary for that function) from Chapter II (except s.8(1) and (5)), Chapter III and s.16.",
+    "answer_1": "Based on the provided excerpts, there is no mention of courts, tribunals, or whether they can process personal data without following the Act's duties. Therefore, the excerpts do not contain enough information to answer the question.",
+    "answer_2": "Yes, to a significant extent. Under Section 17(1)(b) of the Act, when personal data is processed by any court or tribunal in India and such processing is necessary for the performance of any judicial or quasi-judicial function, the provisions of Chapter II (Obligations of Data Fiduciary), Chapter III, and Section 16 do not apply [2]. \n\nHowever, they are not completely exempt from all duties: sub-sections (1) and (5) of section 8 under Chapter II still apply [2]. (Note: The provided excerpts do not specify the exact text of Section 8(1) and (5) [2]).",
+    "answer_1_check": "omits the key fact",
+    "answer_2_check": "contains the key fact"
+  },
+  {
+    "id": "EXC-20",
+    "category": "EXCEPTION",
+    "query": "Does the Act apply to an Indian outsourcing firm processing the data of foreign customers?",
+    "gold_chunks": [
+      58
+    ],
+    "baseline_rank": 1,
+    "reranked_rank": 7,
+    "context_answer_1": [
+      58,
+      11,
+      57
+    ],
+    "context_answer_2": [
+      11,
+      161,
+      62
+    ],
+    "reference_answer": "Mostly not: s.17(1)(d) exempts Chapter II (except s.8(1) and (5)), Chapter III and s.16 when data of Data Principals outside India is processed under a contract with a foreign person by a person based in India.",
+    "answer_1": "Under Section 17(1)(d), where personal data of Data Principals not within the territory of India is processed by a person based in India pursuant to a contract entered into with a person outside India, certain provisions—specifically Chapter II (except subsections (1) and (5) of section 8), Chapter III, and section 16—do not apply [1], [3]. \n\nWhile Section 3 generally applies the Act to the processing of digital personal data within India [2], the excerpts do not provide the full text of the Act to specify every remaining obligation that applies to such an outsourcing firm.",
+    "answer_2": "Based on the provided excerpts, there is not enough information to fully answer whether the Act applies to an Indian outsourcing firm processing foreign customers' data. \n\nExcerpt [1] states that the Act applies to \"the processing of digital personal data within the territory of India where the personal data is collected\" in digital form or subsequently digitized, and excerpt [3] mentions exemptions regarding the processing of personal data outside India [1, 3]. However, the excerpts do not contain specific provisions or exceptions addressing Indian outsourcing companies or the processing of foreign individuals' personal data under contract.",
+    "answer_1_check": "contains the key fact",
+    "answer_2_check": "omits the key fact"
+  }
+]
